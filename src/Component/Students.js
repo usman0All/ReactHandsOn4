@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from 'react';
 
 function Students() {
-  const [data,setData]=useState([
+  const [data]=useState([
     {
       Name:"usman",
       Age:24,
